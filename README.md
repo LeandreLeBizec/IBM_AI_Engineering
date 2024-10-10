@@ -7,7 +7,7 @@ This repository gathers all the documentation, code snippets, and resources used
 
 ## Courses
 - [01. Machine Learning with Python]
-- [02. Introduction to Deep Learning & Neural Networks with Keras](https://github.com/LeandreLeBizec/IBM_AI_Engineering/Module)
+- [02. Introduction to Deep Learning & Neural Networks with Keras](https://github.com/LeandreLeBizec/IBM_AI_Engineering/tree/main/Course%202%20-%20Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras/Module%201%20-%20Artificial%20Neural%20Network)
 - [03. Introduction to Computer Vision and Image Processing]
 - [04. Deep Neural Networks with PyTorch]
 - [05. Building Deep Learning Models with TensorFlow]
